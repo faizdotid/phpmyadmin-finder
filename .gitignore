@@ -1,0 +1,12 @@
+# Output
+found.txt
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
