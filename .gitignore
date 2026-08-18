@@ -2,10 +2,9 @@
 found.txt
 *.txt
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
+# Go
+phpmyadmin-finder
+*.exe
 
 # IDE
 .idea/
